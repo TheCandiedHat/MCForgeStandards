@@ -1,0 +1,7 @@
+ 
+{
+  "parent": "item/generated", // Default Item State
+  "textures": { // item texture(s)
+    "layer0": "MODID:items/texture_name.png"
+  }
+}
